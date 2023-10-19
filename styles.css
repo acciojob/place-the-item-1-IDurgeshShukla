@@ -4,7 +4,6 @@
 	background-color: green;
 	width : 100px;
 	height: 100px;
-	flex-wrap: wrap;
 	
 }
 .item2{
@@ -21,4 +20,6 @@
 	display: flex;
 	justify-content: space-between;
 	font-size: 40px;
+	
+	flex-wrap: wrap;
 }
